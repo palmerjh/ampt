@@ -373,6 +373,7 @@ AMPT Users' Guide
    and `nohup.out'.  The AMPT source code has been tested for both the
    f77 and the pgf77 compilers on the Unix, Linux, and OSF1 operating systems.
 
+****** NOTE: The following info regarding running AMPT is outdated********
 *  To run the AMPT program, one needs to:
    1. set the initial parameters in `input.ampt'. If one prefers to
       use run-time random number seed, set `ihjsed=11', In this way, every
