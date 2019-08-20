@@ -1,5 +1,5 @@
 # ampt
-A Multi-Phase Transport model for high-energy nuclear collisions. 
+A Multi-Phase Transport model for high-energy nuclear collisions. Used as part of the Vanderbilt Compact Muon Soleinoid (CMS) Lab in tandem with CERN.
 
 How To run in latest forked version and generate ROOT TTree:
 
